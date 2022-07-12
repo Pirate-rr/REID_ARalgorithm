@@ -5,4 +5,4 @@ These scripts are provided for academic and educational purposes only. Not for c
 Please cite the following paper if you use this algorithm: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JD032897
 Requires a Matlab licence
 
-To run, make sure all files are in the same directory. Edit Matlab files as required (see comments within for what is editable). Run extract_input_files. Then run, the aptly names, run_matlab.sh file
+To run, make sure all files are in the same directory. Edit files as required (see comments within for what is editable). Run extract_input_data.sh. Then run, the aptly named, run_matlab.sh file
